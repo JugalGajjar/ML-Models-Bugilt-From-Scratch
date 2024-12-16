@@ -21,4 +21,4 @@ This repository contains implementations of various machine learning models, bui
 ### Medium Articles To Understand ML Algorithms:
 1. [Linear Regression](https://medium.com/@812jugalgajjar/understanding-linear-regression-from-mathematics-to-machine-learning-model-6fd93e6fee21)
 2. [Logistic Regression](https://medium.com/@812jugalgajjar/understanding-logistic-regression-from-mathematics-to-machine-learning-model-51048dd5565f)
-3. Coming Soon
+3. [Naive Bayes](https://medium.com/@812jugalgajjar/understanding-naive-bayes-from-mathematics-to-machine-learning-model-46b6bcdf7643)
